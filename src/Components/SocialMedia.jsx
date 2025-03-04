@@ -145,10 +145,10 @@ export default function SocialMedia() {
 
 			<SwipeableViews index={value} onChangeIndex={handleChangeIndex}>
 				<TabPanel value={value} index={0}>
-					<a href="https://www.instagram.com/ekizr_/?hl=id">
+					<a href="https://www.instagram.com/ot.arsh/#?hl=id">
 						<img
 							src="/SocialMediaImg/Instagram.jpg"
-							alt="Instagram Eki"
+							alt="Instagram Arsh"
 							className="object-contain h-auto w-[10rem] md:w-[14.3rem]  rounded-xl "
 						/>
 					</a>
@@ -163,28 +163,28 @@ export default function SocialMedia() {
 					</a>
 				</TabPanel>
 				<TabPanel value={value} index={2}>
-					<a href="https://youtube.com/@eki_zulfar">
+					<a href="https://youtube.com/@animxff">
 						<img
 							src="/SocialMediaImg/youtube.jpg"
-							alt="Youtube Eki"
+							alt="Youtube Arsh"
 							className="object-contain h-auto w-[10rem] md:w-[14.3rem] rounded-xl"
 						/>
 					</a>
 				</TabPanel>
 				<TabPanel value={value} index={3}>
-					<a href="https://www.linkedin.com/in/ekizr/">
+					<a href="https://www.linkedin.com/in/mohammad-arshad-a5202a33b/">
 						<img
 							src="/SocialMediaImg/linkedin.jpg"
-							alt="Linkedin Eki"
+							alt="Linkedin Arsh"
 							className="object-contain h-auto w-[10rem] md:w-[14.3rem] rounded-xl"
 						/>
 					</a>
 				</TabPanel>
         <TabPanel value={value} index={4}>
-					<a href="https://github.com/EkiZR">
+					<a href="https://github.com/mohammedarshad05">
 						<img
 							src="/SocialMediaImg/github.jpg"
-							alt="Github Eki"
+							alt="Github Arsh"
 							className="object-contain h-auto w-[10rem] md:w-[14.3rem] rounded-xl"
 						/>
 					</a>
